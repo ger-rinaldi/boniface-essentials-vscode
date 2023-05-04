@@ -11,6 +11,12 @@ Have YOU tried to manage that?
 
 No more of that thanks to Boniphace Essentials!
 
+The reason of being for this package is to ease setting up a new profile with basic extentions that are not usually bundled but that are really good together! If you see this pack, I hope you like and enjoy it!
+
+#### DISCLAIMER
+**None** of the extentions used are of my creation, credits to creators below.
+This is just a bundle.
+
 ## Extentensions I **love**
 
 This are extensions I consider necessary for all my profiles:
