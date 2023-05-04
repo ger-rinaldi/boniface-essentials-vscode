@@ -1,7 +1,7 @@
 {
   "name": "boniphace-essentials",
   "displayName": "Boniphace-Essentials",
-  "description": "",
+  "description": "Essential extensions for any workspace: Markdown, cool indentation and cute things",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"

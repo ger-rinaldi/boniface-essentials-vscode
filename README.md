@@ -1,16 +1,62 @@
 # boniphace-essentials README
 
-## Working with Markdown
+## Easy starting setup
+Do you have several VSCode profiles?
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Do some extensions appear in different profiles?
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Have YOU tried to manage that?
 
-## For more information
+"Oh, ohno, I forgot to install X in my Y profile!"
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+No more of that thanks to Boniphace Essentials!
 
-**Enjoy!**
+## Extentensions I **love**
+
+This are extensions I consider necessary for all my profiles:
+
+- Markdown Extensions: to improve taking notes and writting documents.
+  
+    Markdown GITHUB STYLE thanks to Matt Bierner.
+
+- Rainbow Indent: cause there's no point in trying to deduce indentation with the naked eye!
+
+    May the gods of coding bless oderwat
+
+- Path Intellisense: and don't get me started about having to figure out the path by yourself!
+
+    Thanks to Christian Kobler my life is better!
+
+- Pets, One Monokai and Material Icons: So you're never farm from home... and so that home is easy to the eye ;)
+
+### Extensions, creators and IDs
+
+#### Live Server:
+- By:  Microsoft
+- **ID:** ms-vscode.live-server
+#### GitHub Markdown Preview:
+- By:  Matt Bierner
+- **ID:** bierner.github-markdown-preview
+#### Markdown All in One :
+- By:  Yu Zhang
+- **ID:** yzhang.markdown-all-in-one
+####  Markdown Lint:
+- By:  David Anson
+- **ID:** DavidAnson.vscode-markdownlint
+####  Path Intellisense:
+- By:  Christian Kohler
+- **ID:** christian-kohler.path-intellisense
+####  Indent Rainbow:
+- By:  Oderwat
+- **ID:** oderwat.indent-rainbow
+####  VSCode Pets:
+- By:  Anthony Shaw
+- **ID:** tonybaloney.vscode-pets
+####  Material Icon Theme:
+- By:  Phillip Kief
+- **ID:** PKief.material-icon-theme
+####  One Monokai Theme:
+- By:  Joshua Azemoth
+- **ID:** azemoh.one-monokai
+
+Thanks to all of them for these amazing extensions!
