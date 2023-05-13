@@ -26,6 +26,10 @@
     "oderwat.indent-rainbow",
     "tonybaloney.vscode-pets",
     "PKief.material-icon-theme",
-    "azemoh.one-monokai"
+    "azemoh.one-monokai",
+    "wayou.vscode-todo-highlight",
+    "esbenp.prettier-vscode",
+    "yzane.markdown-pdf"
+
   ]
 }

@@ -7,7 +7,17 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 ## [0.0.1] - 2023-05-03
+
 ### Added
+
 - Basic VSCE files
 - Description and README
 - Initial essential extentions
+
+## [0.0.2] - 2023-05-013
+
+### Added 3 extensions
+
+- TODO Highlight extension
+- Markdown PDF
+- Prettier Code Formater
