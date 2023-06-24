@@ -40,6 +40,9 @@ Packed with cool extentions you may find quite useful! This package is mainly fo
 ![more actions on ext menu](./images/more-acts.png)
 
 - Click on `Install from VSIX`
+
+![Install from vsix](images/installfrom.png)
+
 - Find your VSIX and click install and you're done!
 
 In case you prefer not to install from the `.vsix` directly and you'd rather [make it yourself](https://medium.com/@sanik.bajracharya/vscode-how-to-create-your-own-extension-pack-483385644c29)
