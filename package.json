@@ -1,8 +1,9 @@
 {
   "name": "boniphace-essentials",
+  "publisher": "ger-rinaldi",
   "displayName": "Boniphace-Essentials",
   "description": "Essential extensions for any workspace: Markdown, cool indentation and cute things",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": {
     "name": "Germán Rinaldi"
   },
@@ -29,7 +30,10 @@
     "azemoh.one-monokai",
     "wayou.vscode-todo-highlight",
     "esbenp.prettier-vscode",
-    "yzane.markdown-pdf"
+    "yzane.markdown-pdf",
+    "tomoki1207.pdf",
+    "jebbs.plantuml",
+    "aaron-bond.better-comments"
 
   ]
 }

@@ -21,3 +21,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - TODO Highlight extension
 - Markdown PDF
 - Prettier Code Formater
+
+## [0.0.3] - 2023-06-24
+
+### Added 3 extensions
+
+- VSCode pdf for pdf visualization in VSCode
+- PlantUML for VSCode
+- Better Comments

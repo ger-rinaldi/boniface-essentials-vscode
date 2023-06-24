@@ -99,4 +99,19 @@ This are extensions I consider necessary for all my profiles:
 - By:  Yzane
 - **ID:** yzane.markdown-pdf
 
+#### VSCode PDF
+
+- By:  tomoki1207
+- **ID:** tomoki1207.pdf
+
+#### PlantUML
+
+- By:  jebbs
+- **ID:** jebbs.plantuml
+
+#### Better Comments
+
+- By:  aaron-bond
+- **ID:** aaron-bond.better-comments
+
 Thanks to all of them for these amazing extensions!
