@@ -19,23 +19,26 @@ The reason of being for this package is to ease setting up a new profile with ba
 >**None** of the extentions used are of my creation, credits to creators below.
 >This is just a bundle.
 
-## Extentensions I **love**
+## Extentensions I **love** and **need**
 
-This are extensions I consider necessary for all my profiles:
+Packed with cool extentions you may find quite useful! This package is mainly focused in Markdown and PlantUML, these are extensions I find quite useful in ,many profiles geared towards writing documentation or that need documentation capabilities!
 
-- Markdown Extensions: to improve taking notes and writting documents.
-  
-    Markdown GITHUB STYLE thanks to Matt Bierner.
+## How to install
 
-- Rainbow Indent: cause there's no point in trying to deduce indentation with the naked eye!
+- Download the `.vsix` file (this is the installed for the package)
+- Go to VS Code and select your desired profile
+- Go to Extensions in Activity Bar
 
-    May the gods of coding bless oderwat
+![extension on activity bar](./ext-menu.png)
 
-- Path Intellisense: and don't get me started about having to figure out the path by yourself!
+- Click on `Views and More Actions...`
 
-    Thanks to Christian Kobler my life is better!
+![extension on activity bar](./more-acts.png)
 
-- Pets, One Monokai and Material Icons: So you're never farm from home... and so that home is easy to the eye ;)
+- Click on `Install from VSIX`
+- Find your VSIX and click install and you're done!
+
+In case you prefer not to install from the `.vsix` directly and you'd rather [make it yourself](https://medium.com/@sanik.bajracharya/vscode-how-to-create-your-own-extension-pack-483385644c29)
 
 ### Extensions, creators and IDs
 
