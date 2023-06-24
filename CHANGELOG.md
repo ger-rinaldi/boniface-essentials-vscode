@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.1] - 2023-05-03
 
-### Added
+Added 3 extensions
 
 - Basic VSCE files
 - Description and README
@@ -16,7 +16,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.2] - 2023-05-013
 
-### Added 3 extensions
+Added 3 extensions
 
 - TODO Highlight extension
 - Markdown PDF
@@ -24,7 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.3] - 2023-06-24
 
-### Added 3 extensions
+Added 3 extensions
 
 - VSCode pdf for pdf visualization in VSCode
 - PlantUML for VSCode
