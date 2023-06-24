@@ -26,6 +26,10 @@ Packed with cool extentions you may find quite useful! This package is mainly fo
 ## How to install
 
 - Download the `.vsix` file (this is the installed for the package)
+
+![.vsix file in github](./images/vsix.png)
+![download .vsix](./images/dwnld.png)
+
 - Go to VS Code and select your desired profile
 - Go to Extensions in Activity Bar
 
@@ -33,7 +37,7 @@ Packed with cool extentions you may find quite useful! This package is mainly fo
 
 - Click on `Views and More Actions...`
 
-![extension on activity bar](./images/more-acts.png)
+![more actions on ext menu](./images/more-acts.png)
 
 - Click on `Install from VSIX`
 - Find your VSIX and click install and you're done!
