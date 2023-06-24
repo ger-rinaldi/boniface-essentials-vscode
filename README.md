@@ -21,7 +21,7 @@ The reason of being for this package is to ease setting up a new profile with ba
 
 ## Extentensions I **love** and **need**
 
-Packed with cool extentions you may find quite useful! This package is mainly focused in Markdown and PlantUML, these are extensions I find quite useful in ,many profiles geared towards writing documentation or that need documentation capabilities!
+Packed with cool extentions you may find quite useful! This package is mainly focused in Markdown and PlantUML, these are extensions I find quite useful in, many profiles geared towards writing documentation or that need documentation capabilities!
 
 ## How to install
 
@@ -29,11 +29,11 @@ Packed with cool extentions you may find quite useful! This package is mainly fo
 - Go to VS Code and select your desired profile
 - Go to Extensions in Activity Bar
 
-![extension on activity bar](./ext-menu.png)
+![extension on activity bar](./images/ext-menu.png)
 
 - Click on `Views and More Actions...`
 
-![extension on activity bar](./more-acts.png)
+![extension on activity bar](./images/more-acts.png)
 
 - Click on `Install from VSIX`
 - Find your VSIX and click install and you're done!
